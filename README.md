@@ -46,7 +46,7 @@ Kemudian lihat hasilnya pada browser.
 
 ![image](https://user-images.githubusercontent.com/56451391/115602331-05118700-a309-11eb-8192-8619d6b449b6.png)
 
-# **Membat Navigasi** 
+# **Membuat Navigasi** 
  menu navigasi untuk memudahkan pencarian , dengan meng'klik tombol navigasi yang ingin di pilih. tambahkan kode berikut  pada  style.css. Dan lihat hasilnya pada browser.
 
 ![image](https://user-images.githubusercontent.com/56451391/115604148-3db26000-a30b-11eb-9c87-16183c9af7e0.png) 
