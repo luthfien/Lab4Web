@@ -1,0 +1,70 @@
+/* import google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap'); 
+
+/* Reset CSS */ 
+body {
+        background-color: #5a5a5a;
+        width: auto;
+        height: auto;
+     }
+    * { 
+        margin: 0; 
+        padding: 0; 
+      } 
+body { 
+        line-height:1; 
+        font-size:100%; 
+        font-family:'Raleway', sans-serif; 
+        color:#5a5a5a; 
+    } 
+#container { 
+            width: 980px; 
+            margin: 0 auto; 
+            box-shadow: 0 0 1em #cccccc; 
+           } 
+/* header */ 
+header { 
+        padding: 20px; 
+       } 
+header h1 { 
+            margin: 20px 10px; color: #0c0202; 
+          }
+/* navigasi */ 
+nav { 
+        display: block; 
+        background-color: #1f5faa; 
+    } 
+nav a { 
+        padding: 15px 30px; 
+        display: inline-block; 
+        color: #ffffff; 
+        font-size: 14px; 
+        text-decoration: none; 
+        font-weight: bold; 
+      } 
+nav a.active, 
+nav a:hover { 
+                background-color: #28d670; 
+            }
+/* Hero Panel */ 
+#hero { 
+        background-color: #e4e4e5; 
+        padding: 50px 20px; 
+        margin-bottom: 20px; 
+      } 
+#hero h1 { 
+            margin-bottom: 20px; 
+            font-size: 35px; 
+        } 
+#hero p { 
+            margin-bottom: 20px; 
+            font-size: 18px; 
+            line-height: 25px; 
+        }
+footer { 
+            clear:both; 
+            background-color:#1d1d1d; 
+            padding:20px; 
+            color:#eee; 
+       }

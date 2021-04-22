@@ -1,0 +1,18 @@
+ div { 
+        float:left;
+        padding: 10px; 
+    } 
+    .div1 { 
+        background: red; 
+    } 
+    .div2 { 
+        background: yellow; 
+    } 
+    .div3 { 
+        background: green; 
+    } 
+    .div4 { 
+        background-color: blue; 
+        clear: left; 
+        float: none; 
+    }
